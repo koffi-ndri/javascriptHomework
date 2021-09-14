@@ -1,0 +1,21 @@
+Task 1:
+git clone maryrose-hw maryrose-clone
+
+Task 2:
+cd maryrose-clone
+
+Task 4:
+git branch javascript-homework-comment
+git checkout javascript-homework-comment
+
+Task 6:
+git add homework.js
+
+Task 7:
+git commit -m "comment added"
+
+Task 8:
+git push origin javascript-homework-comment
+
+Task 9:
+cd ../maryrose-hw
